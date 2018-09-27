@@ -120,3 +120,16 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+
+
+*기울기*라 적으면 기울기처럼 글자를 기울일 수 있습니다.
+
+**굵게**라 적으면 굵게처럼 글자를 굵게 표시할 수 있습니다.
+
+***굵게***라 적으면 굵으며 기운처럼 글자를 굵으면서도 기울게 표시할 수 있습니다.
+
+<U>밑줄</U>라 적으면 밑줄처럼 밑줄을 그을 수 있습니다.
+
+
+
+(취향에 따라 * 표시 대신 _(언더라인)으로 대체할 수 있습니다)
