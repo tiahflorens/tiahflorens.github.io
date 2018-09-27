@@ -1,6 +1,3 @@
-# tiahflorens.github.io
-
-
 
 ## Welcome to second page
 
