@@ -2,7 +2,7 @@
 
 
 
-['Go to post'](post/tables/)
+['Go to post'](post/tables.md)
 
 
 
