@@ -32,10 +32,10 @@ A curated list of awesome anomaly detection resources. Inspired by
 
 
 ## Pose Estimation
-- Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields | **[CVPR' 17]**
-| Zhe Cao |
-[`[pdf]`](https://arxiv.org/pdf/1611.08050.pdf) | [`[github]`](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation) |
-- Future Frame Prediction for Anomaly Detection – A New Baseline | **[CVPR' 18]** | Wen Liu | [`[pdf]`](https://arxiv.org/pdf/1712.09867.pdf) | [`[github]`](https://github.com/StevenLiuWen/ano_pred_cvpr2018) |
+- Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields |
+ **[CVPR' 17]**| Zhe Cao |[`[pdf]`](https://arxiv.org/pdf/1611.08050.pdf) | [`[github]`](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation) |
+- Future Frame Prediction for Anomaly Detection – A New Baseline |
+ **[CVPR' 18]** | Wen Liu | [`[pdf]`](https://arxiv.org/pdf/1712.09867.pdf) | [`[github]`](https://github.com/StevenLiuWen/ano_pred_cvpr2018) |
 - Weakly and Semi Supervised Human Body Part Parsing via Pose-Guided Knowledge Transfer | **[CVPR' 18]** | Hao-Shu Fang | [`[pdf]`](https://arxiv.org/pdf/1805.04310.pdf) | [`[github]`](https://github.com/MVIG-SJTU/WSHP) |
 - Cascaded Pyramid Network for Multi-Person Pose Estimation | **[CVPR' 18] ** | Yilun Chen | [`[pdf]`](https://arxiv.org/pdf/1711.07319.pdf) | [ `[github]`](https://github.com/chenyilun95/tf-cpn) |
 - Stacked Hourglass Networks for Human Pose Estimation | **[ECCV' 16] ** | Alejandro Newell | [`[pdf]`](https://arxiv.org/pdf/1603.06937.pdf) |
@@ -49,10 +49,7 @@ A curated list of awesome anomaly detection resources. Inspired by
 - Feature Pyramid Networks for Object Detection | **[CVPR'] ** | Tsung-Yi Lin| [`[github`](https://github.com/unsky/FPN)] |  [`[pdf]`](https://arxiv.org/pdf/1612.03144.pdf) |
 
 ### Frame-level detection
-- Real-world Anomaly Detection in Surveillance Videos | **[CVPR' 18]** | Waqas Sultani
-| [`[pdf]`](https://arxiv.org/pdf/1801.04264.pdf)
-| [`[github]`](https://github.com/WaqasSultani/AnomalyDetectionCVPR2018)
-| [`[project page]`](http://crcv.ucf.edu/projects/real-world/)
+- Real-world Anomaly Detection in Surveillance Videos | **[CVPR' 18]** | Waqas Sultani|[`[pdf]`](https://arxiv.org/pdf/1801.04264.pdf)| [`[github]`](https://github.com/WaqasSultani/AnomalyDetectionCVPR2018)| [`[project page]`](http://crcv.ucf.edu/projects/real-world/)
 
 ### Clip-level detection
 
