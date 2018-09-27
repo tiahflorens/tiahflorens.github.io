@@ -32,12 +32,14 @@ A curated list of awesome anomaly detection resources. Inspired by
 
 
 ## Pose Estimation
-- Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields |
+- Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields
  **[CVPR' 17]**| Zhe Cao |[`[pdf]`](https://arxiv.org/pdf/1611.08050.pdf) | [`[github]`](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation) |
 - Future Frame Prediction for Anomaly Detection – A New Baseline |
  **[CVPR' 18]** | Wen Liu | [`[pdf]`](https://arxiv.org/pdf/1712.09867.pdf) | [`[github]`](https://github.com/StevenLiuWen/ano_pred_cvpr2018) |
-- Weakly and Semi Supervised Human Body Part Parsing via Pose-Guided Knowledge Transfer | **[CVPR' 18]** | Hao-Shu Fang | [`[pdf]`](https://arxiv.org/pdf/1805.04310.pdf) | [`[github]`](https://github.com/MVIG-SJTU/WSHP) |
-- Cascaded Pyramid Network for Multi-Person Pose Estimation | **[CVPR' 18] ** | Yilun Chen | [`[pdf]`](https://arxiv.org/pdf/1711.07319.pdf) | [ `[github]`](https://github.com/chenyilun95/tf-cpn) |
+- Weakly and Semi Supervised Human Body Part Parsing via Pose-Guided Knowledge Transfer
+ **[CVPR' 18]** | Hao-Shu Fang | [`[pdf]`](https://arxiv.org/pdf/1805.04310.pdf) | [`[github]`](https://github.com/MVIG-SJTU/WSHP) |
+- Cascaded Pyramid Network for Multi-Person Pose Estimation
+ **[CVPR' 18] ** | Yilun Chen | [`[pdf]`](https://arxiv.org/pdf/1711.07319.pdf) | [ `[github]`](https://github.com/chenyilun95/tf-cpn) |
 - Stacked Hourglass Networks for Human Pose Estimation | **[ECCV' 16] ** | Alejandro Newell | [`[pdf]`](https://arxiv.org/pdf/1603.06937.pdf) |
 
 
