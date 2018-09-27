@@ -24,18 +24,19 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 **FPN is a good feature extractor designed for such pyramid concept with accuracy and speed in mind.**
 <p align="center">
-  <img width="600" src="/res/FPN/2-1.PNG" "Example of anomaly detection.">
+  <src="../res/FPN/2-1.PNG" "Example of anomaly detection.">
 </p>
 <p align="center">
   <src="/res/FPN/2-1.PNG" >
 </p>
-![](/res/FPN/2-1.png)
-![](res/FPN/2-1.png)
 
 ![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-![](/res/FPN/2-1.png)
+![](../res/FPN/2-1.png)
 ![](res/FPN/test.png)
+
 
 ## Data Flow
 asd
 d
+
+
