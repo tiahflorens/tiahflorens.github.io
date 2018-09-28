@@ -25,8 +25,8 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 **FPN is a good feature extractor designed for such pyramid concept with accuracy and speed in mind.**
 
 
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-![](../res/FPN/2-1.png){.alignleft}
+<!--![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)-->
+![](../res/FPN/2-1.png){.aligncenter}
 
 ## Data Flow
 asd
