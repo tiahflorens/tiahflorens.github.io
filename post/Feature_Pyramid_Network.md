@@ -26,6 +26,10 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 
 <!--![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)-->
+<p align="center">
+  <img width="600" height="400" src="../res/FPN/2-1.png" "Example of anomaly detection.">
+</p>
+
 ![](../res/FPN/2-1.png){.aligncenter}
 
 ## Data Flow
