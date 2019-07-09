@@ -16,7 +16,7 @@
 
 **[2] Actional-Structural Graph Convolutional Networks for Skeleton-Based Action Recognition**
 - keyword: CVPR2019
-- links: [go to paper](https://arxiv.org/pdf/1904.12659.pdf), [go to github(pytorch)](https://github.com/limaosen0/AS-GCN)
+- arxiv: [go to paper](https://arxiv.org/pdf/1904.12659.pdf), github [go to code(pytorch)](https://github.com/limaosen0/AS-GCN)
 
 
 **[3]	Skeleton-Based Action Recognition With Directed Graph Neural Networks**
