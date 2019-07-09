@@ -11,13 +11,13 @@
 **[1] An Attention Enhanced Graph Convolutional LSTM Network for Skeleton-Based Action Recognition**
 - keyword: CVPR2019
 - DATASET: NTU RGB+D dataset and Northwestern-UCLA dataset.
-- arxiv: [https://arxiv.org/pdf/1902.09130.pdf](https://arxiv.org/pdf/1902.09130.pdf)
+- links: [go to paper](https://arxiv.org/pdf/1902.09130.pdf)
 
 
 **[2] Actional-Structural Graph Convolutional Networks for Skeleton-Based Action Recognition**
 - keyword: CVPR2019
-- arxiv:[https://arxiv.org/pdf/1904.12659.pdf](https://arxiv.org/pdf/1904.12659.pdf)
-- github[pytorch]:[https://github.com/limaosen0/AS-GCN](https://github.com/limaosen0/AS-GCN)
+- links: [go to paper](https://arxiv.org/pdf/1904.12659.pdf), [go to github(pytorch)](https://github.com/limaosen0/AS-GCN)
+
 
 **[3]	Skeleton-Based Action Recognition With Directed Graph Neural Networks**
 - keyword: CVPR2019
