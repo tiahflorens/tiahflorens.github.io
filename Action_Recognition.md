@@ -91,24 +91,38 @@
 **[18] Neural Graph Matching Networks for Fewshot 3D Action Recognition**
 - openaccess: [go to paper](https://eccv2018.org/openaccess/content_ECCV_2018/papers/Michelle_Guo_Neural_Graph_Matching_ECCV_2018_paper.pdf) 
 
+# TPAMI
+
+## TPMAI 2019
+**[19] View Adaptive Neural Networks for High Performance Skeleton-Based Human Action Recognition**
+- ieee: [go to paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8630687) 
+
+## TPAMI 2018
+**[20] Skeleton-Based Action Recognition Using Spatio-Temporal LSTM Network with Trust Gates**
+- ieee: [go to paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8101019) 
+- github[torch]:[go to code](https://github.com/kinect59/Spatio-Temporal-LSTM)
+
+## TPMAI 2017
+**[21] Highly Articulated Kinematic Structure Estimation Combining Motion and Skeleton Information**
+- ieee: [go to paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8025409&tag=1) 
+
+# IJCV
+
+## IJCV 2017
+
+**[22] Max-Margin Heterogeneous Information Machine for RGB-D Action Recognition**
+- ieee: [go to paper](https://link.springer.com/article/10.1007/s11263-016-0982-6) 
+
+
+# AAAI
+
+## AAAI 2017
+**[23] An End-to-End Spatio-Temporal Attention Model for Human Action Recognition from Skeleton Data**
+- arxiv: [go to paper](https://arxiv.org/abs/1611.06067) 
+
 
 **[]**
-- openaccess: [go to paper]() 
-- github[]: [go to code]()
-**[]**
-- openaccess: [go to paper]() 
-- github[]: [go to code]()
-**[]**
-- openaccess: [go to paper]() 
-- github[]: [go to code]()
-**[]**
-- openaccess: [go to paper]() 
-- github[]: [go to code]()
-**[]**
-- openaccess: [go to paper]() 
-- github[]: [go to code]()
-**[]**
-- openaccess: [go to paper]() 
+- ieee: [go to paper]() 
 - github[]: [go to code]()
 
 
