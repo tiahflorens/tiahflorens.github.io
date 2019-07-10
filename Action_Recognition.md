@@ -158,7 +158,8 @@
 - github[py]: [go to code](https://github.com/hongsong-wang/Beyond-Joints)
 
 
-# ICMEW (IEEE International Conference on Multimedia and Expo - Workshop)
+# ICMEW
+(IEEE International Conference on Multimedia and Expo - Workshop)
 **[29]Skeleton-based action recognition with convolutional neural networks**
 - authors: Chao Li ; Qiaoyong Zhong ; Di Xie ; Shiliang Pu
 - ieee: [go to paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8026285)
